@@ -1,2 +1,3 @@
 # template
-Template
+
+单页应用。
